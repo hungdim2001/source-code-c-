@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\HUNGDIM\Documents\mycodeC++\boi chung nho nhat\Source.cpp(10): warning C4715: 'bcnn': not all control paths return a value
+C:\Users\HUNGDIM\Documents\mycodeC++\boi chung nho nhat\Source.cpp(16): warning C4715: 'ucln': not all control paths return a value
+  boi chung nho nhat.vcxproj -> C:\Users\HUNGDIM\Documents\mycodeC++\boi chung nho nhat\Debug\boi chung nho nhat.exe

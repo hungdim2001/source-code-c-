@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\HUNGDIM\Documents\mycodeC++\nhap mang su dung vector\Source.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HUNGDIM\Documents\mycodeC++\nhap mang su dung vector\Source.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+  nhap mang su dung vector.vcxproj -> C:\Users\HUNGDIM\Documents\mycodeC++\nhap mang su dung vector\Debug\nhap mang su dung vector.exe

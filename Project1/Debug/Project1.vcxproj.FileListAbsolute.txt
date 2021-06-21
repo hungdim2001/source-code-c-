@@ -1,0 +1,2 @@
+C:\Users\HUNGDIM\Documents\mycodeC++\Project1\Debug\Project1.exe
+C:\Users\HUNGDIM\Documents\mycodeC++\Project1\Debug\Project1.pdb

@@ -1,0 +1,2 @@
+C:\Users\HUNGDIM\Documents\mycodeC++\so hoan thien\Debug\so hoan thien.exe
+C:\Users\HUNGDIM\Documents\mycodeC++\so hoan thien\Debug\so hoan thien.pdb

@@ -1,0 +1,2 @@
+C:\Users\HUNGDIM\Documents\mycodeC++\code tao ma tran\Debug\code tao ma tran.exe
+C:\Users\HUNGDIM\Documents\mycodeC++\code tao ma tran\Debug\code tao ma tran.pdb

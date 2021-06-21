@@ -1,0 +1,2 @@
+C:\Users\HUNGDIM\Documents\mycodeC++\boi chung nho nhat\Debug\boi chung nho nhat.exe
+C:\Users\HUNGDIM\Documents\mycodeC++\boi chung nho nhat\Debug\boi chung nho nhat.pdb

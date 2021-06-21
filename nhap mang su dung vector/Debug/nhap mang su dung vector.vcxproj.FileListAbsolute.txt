@@ -1,0 +1,2 @@
+C:\Users\HUNGDIM\Documents\mycodeC++\nhap mang su dung vector\Debug\nhap mang su dung vector.exe
+C:\Users\HUNGDIM\Documents\mycodeC++\nhap mang su dung vector\Debug\nhap mang su dung vector.pdb

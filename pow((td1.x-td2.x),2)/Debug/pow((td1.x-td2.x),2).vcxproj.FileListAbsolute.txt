@@ -1,0 +1,2 @@
+C:\Users\HUNGDIM\Documents\mycodeC++\pow((td1.x-td2.x),2)\Debug\pow((td1.x-td2.x),2).exe
+C:\Users\HUNGDIM\Documents\mycodeC++\pow((td1.x-td2.x),2)\Debug\pow((td1.x-td2.x),2).pdb

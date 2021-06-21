@@ -1,0 +1,2 @@
+C:\Users\HUNGDIM\Documents\mycodeC++\dem so nguyen duong\Debug\dem chu so cua so nguyen duong.exe
+C:\Users\HUNGDIM\Documents\mycodeC++\dem so nguyen duong\Debug\dem chu so cua so nguyen duong.pdb

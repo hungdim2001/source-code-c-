@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\HUNGDIM\Documents\mycodeC++\dssdfsf\Viết hàm tính giá trị trung bình các phần tử có giá trị lẻ trong mảng số nguyên\Source.cpp(30,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HUNGDIM\Documents\mycodeC++\dssdfsf\Viết hàm tính giá trị trung bình các phần tử có giá trị lẻ trong mảng số nguyên\Source.cpp(69,15): error C2664: 'int getc(FILE *)': cannot convert argument 1 from 'char [40]' to 'FILE *'
+C:\Users\HUNGDIM\Documents\mycodeC++\dssdfsf\Viết hàm tính giá trị trung bình các phần tử có giá trị lẻ trong mảng số nguyên\Source.cpp(69,11): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(301,26): message : see declaration of 'getc'
